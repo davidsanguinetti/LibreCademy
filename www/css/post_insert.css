@@ -1,0 +1,73 @@
+.inserttitle {
+	border-bottom: 1px black;
+}
+
+.insertbody {
+	border: 1px dashed #DCDCDC;
+</*	width:100%; */
+	height:100px;
+}
+
+.disabled {
+	color: #C3C3C3;
+}
+
+.enabled {
+	color: #000000;
+}
+
+.bticon {
+	margin:	5px;
+	cursor:	pointer;
+}
+
+
+#corkboard {
+	height: 	600px;
+	overflow-y:	auto;
+	background: 	#F9F9F9;
+}
+
+.post {
+	background: 	#FFFFFF;
+	border-bottom: 	1px solid #E6E6E6;
+	border-left: 	2px solid #F9F9F9;
+	border-right: 	5px solid #F9F9F9;
+	margin-top:5px;
+	padding:0;
+}
+
+
+.img-who {
+	margin-top: 20px;
+}
+.post-id {
+	margin-left: -3px;
+	font-size:	8pt;
+	font-weight:	bold;
+}
+
+.post-text {
+	background: url('../res/img/quotes.png') 0 0 no-repeat;
+	border-left: 2px solid #DCDCDC;
+	min-height:		110px;
+}
+
+.post-bottom {
+	color: #808080;
+	position: absolute;
+	bottom: 0;
+	right: 10;
+}
+
+.post-name{
+	color: black;
+}
+
+.post-time {
+	color: black;
+}
+.img-who {
+	width: 	auto;
+	height:	50px;
+}

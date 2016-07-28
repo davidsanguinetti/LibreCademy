@@ -1,0 +1,4 @@
+50meters
+
+Aplicação de comunicação entre pessoas cujo raio de alcance é tipicamente 50metros. Outras distâncias poderão estar disponíveis mas terão de ser "premium"
+Os users poderão adicionar-se entre si, caso a conversação que tenham numa dada altura (a ~~50metros um do outro) tenha sido agradável.

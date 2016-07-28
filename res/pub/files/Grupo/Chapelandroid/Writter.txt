@@ -1,0 +1,49 @@
+Ladies an Gentlemen, I present you with:
+__________________________
+---------WRITTER----------
+__________________________
+
+---What is Writter?
+It is an app (backed by a web service and a storage server) to write and read stories, by users and for users.
+
+---How does it work?
+A user starts a story thread, with some options to fill or choose, such as "standard post length", 
+"genre/s of the story" and some others yet to be established. Then any user can join the story with his own post
+(according with the rules and requirements of said story) to continue it. These posts can be approved through
+community and original poster (OP from now on) votes, and initially they are thought to be short posts 
+(so they can be more easily written through the phone). And through the same method, posts which don't comply with
+rules or just don't make the cut (quality or genre-wise) won't be posted permanently in the story.
+The OP will have rights in his own story (ytbe too), but there will also be a "free" mode, where there are no tags
+and the writters just write whatever they want to continue the story through the short posts.It will be
+community-regulated, and there will also be awards, customizable profiles, achievements, events and contests.
+
+---That's good, but where does money come in?
+There will be two different kinds of users: Free and Subscriptors. Subscriptors will have to pay a monthly fee
+(intended to be quite cheap) that will provide them of more options, such as "closed" stories in which the OP will
+be the one to give permissions to join (that way only the users he likes will be able to take part in the story),
+higher daily writing limit than free users (or just no limit), space to post their own stories for others to read,
+access to critics (to both post and receive them), and not only that, they could also decide if they want support
+to publish their stories, contact with editors, printers, etc... And many more functions!
+And a good piece of news for all the free users: You can get free months of subscriptor user by inviting friends,
+advertising us and winning writing contests and achievements!
+
+Also, advertising will be playing a major part in all this, since magazines, book stores, publishers and many alike
+will probably have interest in being advertised in our app+web. Furthermore, the contests and events we can organize
+can be sponsored by some of them, offering prizes.
+
+And to top all this, since it will be (mostly) an auto-regulated community, this platform can exist in any language
+we might want, we'd just need to create the interface in that language and then the users will be the ones
+writing, reading and doing the voting.
+
+
+_________________________________________________________________________________________
+
+---So, what do we still need to decide?
+Mostly which will be the free and subscriptor users features. How can we make the subscription be more appealing
+without making the free users feel too restricted and useless.
+We need a system that will work, be attractive to users and how can we focus this to gain the most interest possible.
+Also, the main structure of the system, being how it will work in the end, with final numbers, perks and what
+will we be offering the community, and how. This still need to be studied, and of course, we can still have some
+good new ideas and rework a bit the concept.
+
+So mainly, BRAINSTORMING!!!
